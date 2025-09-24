@@ -1,4 +1,4 @@
-echo "# Bibek Parajuli – Developer Portfolio
+Bibek Parajuli – Developer Portfolio
 
 ## About
 Personal portfolio showcasing my work as a Java Backend Developer, Flutter Developer, and US IT Sales Recruiter. Responsive, modern UI with interactive sections.

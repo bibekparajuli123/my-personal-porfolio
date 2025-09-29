@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Micro Habit Tracker",
     description: "A lightweight RESTful App using SpringBoot",
-    image: "./public/micro_habit.jpg",
+    image: "/micro_habit.jpg",
     tags: ["REST APIs", "MySQL", "JPA"],
     demoUrl: "https://github.com/bibekparajuli123/micro-habit-tracker",
     githubUrl: "https://github.com/bibekparajuli123/micro-habit-tracker",
@@ -15,7 +15,7 @@ const projects = [
     title: "Banking System using OOP and JDBC",
     description:
       "OOP principles and JDBC",
-    image: "./public/banking.jpg",
+    image: "/banking.jpg",
     tags: ["JDBC", "MYSQL"],
     demoUrl: "https://github.com/bibekparajuli123/bank-management-system",
     githubUrl: "https://github.com/bibekparajuli123/bank-management-system",
@@ -25,7 +25,7 @@ const projects = [
     title: "Text to Resume AI",
     description:
       "Text Description to Resume Using Spring AI and React",
-    image: "./public/ai.jpg",
+    image: "/ai.jpg",
     tags: ["React", "SpringBoot", "Stripe"],
     demoUrl: "https://github.com/bibekparajuli123/text-to-resume-ai",
     githubUrl: "https://github.com/bibekparajuli123/text-to-resume-ai",
